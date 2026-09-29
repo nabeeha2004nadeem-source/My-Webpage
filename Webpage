@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digital Marketing</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #4b0082;
+            color: white;
+            text-align: center;
+            padding: 35px;
+        }
+
+        nav {
+            background-color: #222;
+            text-align: center;
+            padding: 15px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 20px;
+        }
+
+        .main {
+            padding: 40px;
+            text-align: center;
+        }
+
+        .card {
+            background-color: white;
+            width: 80%;
+            margin: 20px auto;
+            padding: 25px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #4b0082;
+        }
+
+        button {
+            background-color: #4b0082;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Digital Marketing</h1>
+    <p>Connecting Businesses with Customers Online</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Services</a>
+    <a href="#">Contact</a>
+</nav>
+
+<div class="main">
+
+    <div class="card">
+        <h2>What is Digital Marketing?</h2>
+        <p>
+            Digital marketing is the promotion of products and services
+            through digital channels such as search engines, social media,
+            websites and email.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Major Areas</h2>
+        <p>
+            SEO | Social Media Marketing | Content Marketing |
+            Email Marketing | Online Advertising
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>Why is it Important?</h2>
+        <p>
+            Digital marketing helps businesses reach a wider audience,
+            build relationships with customers and measure their marketing
+            performance.
+        </p>
+
+        <button>Learn More</button>
+    </div>
+
+</div>
+
+<footer>
+    <p>Created by Student | 2026</p>
+</footer>
+
+</body>
+</html>
